@@ -14,9 +14,23 @@ An acute lower respiratory tract infection with fever, symptoms and signs in the
 
 Jekyll also offers powerful support for code snippets:
 
--test 1
--test 2
+---
 
+
+* **Lifestyle:**
+  * ↓Alcohol and tobacco
+* **H.pylori eradication (as above):**
+  * Triple therapy is 80–85% effective at eradication
+  * Drugs to reduce acid:
+  * PPIs are effective, eg lansoprazole 30mg/24h PO for 4 weeks (DU) or 8 weeks (GU)
+  * H2 blockers have a place (ranitidine 300mg each night PO for 8wks)
+* **Drug-induced ulcers:**
+  * Stop drug if possible
+  * PPIs may be best for treating and preventing GI ulcers and bleeding in patients on NSAIDs or antiplatelet drugs
+  * Misoprostol is an alternative with different SE
+  * If symptoms persist, re-endoscope, retest for H.pylori, and reconsider differential diagnoses (eg gallstones).
+
+---
 
 # Signs and Symptoms 
 {% highlight ruby %}
